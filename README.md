@@ -1,7 +1,7 @@
 # Flask-Web
 
 ### REQUIREMENTS AND SETUP
-`pip install flask` <br>
+  `pip install flask` <br>
 <br>
 `pip install flask-login` <br>
 <br>
