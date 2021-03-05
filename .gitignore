@@ -1,4 +1,1 @@
-.html linguist-detectable=false
-.python linguist-detectable=true
-.htm inguist-detectable=false
-js linguist-detectable=true
+*. html linguist-language = Python
